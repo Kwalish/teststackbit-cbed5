@@ -1,6 +1,9 @@
 ---
 title: lorem-ipsum
-sections: []
+sections:
+  - title: lorem-ipsum
+    team: []
+    type: team_section
 seo:
   title: ''
   description: ''
