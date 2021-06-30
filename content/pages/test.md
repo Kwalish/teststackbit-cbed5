@@ -2,7 +2,8 @@
 title: lorem-ipsum
 sections:
   - title: lorem-ipsum
-    team: []
+    team:
+      - content/data/team/person-k7vrl067c.json
     type: team_section
 seo:
   title: ''
