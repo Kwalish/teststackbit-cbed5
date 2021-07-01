@@ -4,6 +4,7 @@ sections:
   - title: lorem-ipsum
     team:
       - content/data/team/person-k7vrl067c.json
+      - content/data/team/gordon-norman.yaml
     type: team_section
   - title: This is a Hero
     subtitle: Blaba
