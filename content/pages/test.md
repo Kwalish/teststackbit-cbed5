@@ -5,7 +5,7 @@ sections:
     team:
       - content/data/team/person-k7vrl067c.json
     type: team_section
-  - title: lorem-ipsum
+  - title: This is a Hero
     subtitle: lorem-ipsum
     actions: []
     align: left
