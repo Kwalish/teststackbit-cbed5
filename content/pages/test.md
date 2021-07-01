@@ -6,7 +6,7 @@ sections:
       - content/data/team/person-k7vrl067c.json
     type: team_section
   - title: This is a Hero
-    subtitle: lorem-ipsum
+    subtitle: Blaba
     actions: []
     align: left
     image_alt: lorem-ipsum
